@@ -1,0 +1,3 @@
+srpm:
+	make
+
