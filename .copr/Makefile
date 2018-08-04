@@ -1,4 +1,4 @@
 srpm:
-	yum groupinstall 'Development Tools'
+	yum groupinstall 'Development Tools' -y
 	make
 
